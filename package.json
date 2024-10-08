@@ -1,0 +1,24 @@
+{
+  "name": "expertlab-sprint1-action",
+  "version": "1.0.0",
+  "description": "This repository serves as a PoC of a custom GitHub Action",
+  "main": "action.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandroBarillaPXL/expertlab-sprint1-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandroBarillaPXL/expertlab-sprint1-action/issues"
+  },
+  "homepage": "https://github.com/SandroBarillaPXL/expertlab-sprint1-action#readme",
+  "dependencies": {
+    "@actions/core": "^1.11.1",
+    "@actions/github": "^6.0.0"
+  }
+}
