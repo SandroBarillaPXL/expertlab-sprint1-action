@@ -1,0 +1,15 @@
+name: expertlab-sprint1-action
+description: This action is a boilerplate representation.
+author: sandropxl
+categories:
+  - Continuous Integration
+  - Deployment
+  - Utility
+  - Testing
+pricing: free
+contact_email: sandro.barilla@student.ehb.be
+support:
+  issues: https://github.com/SandroBarillaPXL/expertlab-sprint1-action/issues
+  discussions: https://github.com/SandroBarillaPXL/expertlab-sprint1-action/discussions
+repository: https://github.com/SandroBarillaPXL/expertlab-sprint1-action
+homepage: https://github.com/SandroBarillaPXL/expertlab-sprint1-action
