@@ -1,5 +1,5 @@
 # expertlab-sprint1-action
-This repository serves as a PoC of a custom GitHub Action
+This repository serves as a PoC of a custom GitHub Action. It accepts two inputs, one of which is optional, and echoes them. It also has an available output to use in subsequent steps.
 
 ## Usage
 ```yaml
