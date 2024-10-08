@@ -1,5 +1,8 @@
 name: "expertlab-sprint1-action"
 description: "This is a test action to use in expert lab."
+branding:
+  icon: "box"
+  color: "blue"
 inputs:
   input1:
     description: "Input 1"
