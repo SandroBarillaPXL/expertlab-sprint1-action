@@ -12,4 +12,5 @@ This repository serves as a PoC of a custom GitHub Action. It accepts two inputs
 
 - name: use action output
   run: echo "The output of my action is ${{ steps.run-own.outputs.output1 }}"
-```	            
+```	   
+For further explanation, please refer to [docs.md](./docs.md).
